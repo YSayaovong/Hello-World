@@ -1,0 +1,66 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20220926185612
+Username: DESKTOP-39DRNO6\ysaya
+RunAs User: DESKTOP-39DRNO6\ysaya
+Configuration Name: 
+Machine: DESKTOP-39DRNO6 (Microsoft Windows NT 10.0.19044.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 6628
+PSVersion: 5.1.19041.1682
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1682
+BuildVersion: 10.0.19041.1682
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Users\ysaya\OneDrive\Documents\PowerShell_transcript.DESKTOP-39DRNO6.Yjml88h+.20220926185612.txt
+PS C:\Windows\system32> (Get-Content -Path "C:\Users\ysaya\OneDrive\Desktop\Helloworld.ps1")
+PS C:\>
+PS C:\>
+PS C:\>
+PS C:\>
+PS C:\>
+PS C:\> Write-Host 'Hello, World!'
+Hello, World!
+
+PS C:\>
+PS C:\Windows\system32> stop-script
+stop-script : The term 'stop-script' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ stop-script
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (stop-script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+stop-script : The term 'stop-script' is not recognized as the name of a cmdlet, function, script file, or operable
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ stop-script
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (stop-script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Windows\system32> stop-script
+stop-script : The term 'stop-script' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ stop-script
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (stop-script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+stop-script : The term 'stop-script' is not recognized as the name of a cmdlet, function, script file, or operable
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ stop-script
++ ~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (stop-script:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Windows\system32> stop-transcript
+**********************
+Windows PowerShell transcript end
+End time: 20220926185823
+**********************
